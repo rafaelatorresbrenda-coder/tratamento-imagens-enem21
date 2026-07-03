@@ -1,0 +1,1 @@
+não compensa concatenar as páginas inteiras.
